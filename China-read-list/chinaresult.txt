@@ -1,0 +1,8 @@
+url|标题|投资时间|地区|企业阶段|融资性质|融资金额|股权|企业估值|行业分类|融资方|投资方|投资银行|律师事务所|会计事务所|描述
+http://www.chinaventure.com.cn/cvsourcemodel/financing/detail/29294.shtml|康盛投资增持博信股份5%股份|2016-03-23|广东|获利期|PE-PIPE|N/A|5.00%|0.00|租赁和商务服务业>商务服务业>企业管理服务>投资与资产管理|广东博信投资控股股份有限公司|N/A|N/A|N/A|N/A|康盛投资合计持有博信股份22,999,902股，占博信股份的股份总额的10%。
+http://www.chinaventure.com.cn/cvsourcemodel/financing/detail/29104.shtml|Ambidio获得维港投资注资|2016-03-16|中国台湾|早期|VC-Series A|N/A|N/A|N/A|文化、体育和娱乐业>广播，电视，电影和音像业>音像制作>音像制作|Ambidio|N/A|N/A|N/A|N/A|
+http://www.chinaventure.com.cn/cvsourcemodel/financing/detail/28994.shtml|东百供应链获得知年投资注资|2016-03-03|福建|早期|VC-Series A|490.00万元|49.00%|1.52|交通运输、仓储和邮政业>装卸搬运和其他运输服务业>运输代理服务>运输代理服务|福建东百供应链管理有限公司(暂定名)|N/A|N/A|N/A|N/A|
+http://www.chinaventure.com.cn/cvsourcemodel/financing/detail/28673.shtml|安赐投资等收购南通锻压股份|2016-02-29|江苏|获利期|PE-Buyout|159,000.00万元|62.50%|386.71|制造业>通用设备制造业>金属加工机械制造>金属成形机床制造|南通锻压设备股份有限公司|N/A|N/A|N/A|N/A|本次股份转让完成过户登记后，新余市安常投资中心（有限合伙）持有上市公司3,350万股股份，约占上市公司股份总数的26.17%，成为上市公司的第一大股东。
+http://www.chinaventure.com.cn/cvsourcemodel/financing/detail/28762.shtml|中新融鑫增持荃银高科|2016-02-26|安徽|获利期|PE-PIPE|N/A|7.72%|0.00|农、林、牧、渔业>农业>谷物及其他作物的种植>谷物的种植|安徽荃银高科种业股份有限公司|N/A|N/A|N/A|N/A|2016年2月25日至26日，中新融鑫在证券交易所以集中竞价系统增持荃银高科股份24,470,564股，占荃银高科公司股份总额的7.72%。
+http://www.chinaventure.com.cn/cvsourcemodel/financing/detail/28849.shtml|通化金马非公开发行股票 晋商联盟等参与认购|2016-02-23|吉林|获利期|PE-PIPE|158,800.00万元|N/A|N/A|制造业>医药制造业>化学药品原药制造>化学药品原药制造|通化金马药业集团股份有限公司|N/A|N/A|N/A|N/A|
+http://www.chinaventure.com.cn/cvsourcemodel/financing/detail/29179.shtml|易简广告非公开发行股票 霍尔果斯汇联创投参与认购|2016-02-05|广东|扩张期|PE-Growth|1,650.00万元|9.91%|25.31|信息传输、计算机服务和软件业>电信和其他信息传输服务业>电信>移动电信服务|广州易简广告股份有限公司|N/A|广州证券股份有限公司|国浩律师 （广州）事务所|广东正中珠江会计师事务所（特殊普通合伙）|
